@@ -10,6 +10,7 @@ RUN apk add --update \
     cmake \
     gcc \
     g++ \
+    libffi-dev \
     python \
     python-dev \
     py-pip \
